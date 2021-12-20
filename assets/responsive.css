@@ -1,7 +1,15 @@
-@media (max-width: 1000px) {
-
-    .work-wrapper {
-        flex-wrap: wrap;
+@media screen and (max-width: 768px) {
+    nav {
+        justify-content: space-evenly;
     }
 
+    header nav ul {
+        justify-content: space-between;
+        display: inline-block;
+    }
+
+    #main-card {
+        height: 700px;
+        flex: 2 1 100%;
+    }
 }
