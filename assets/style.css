@@ -28,7 +28,8 @@ nav ul li {
     background-color: gray;
     border-bottom: white solid 3px;
     color: white;
-    display: inline;
+    display: inline-block;
+
 }
 
 nav ul li:hover {
@@ -60,7 +61,7 @@ header h1 {
     font-size: 36px;
     position: absolute;
     right: 70px;
-    top: 30%;
+    top: 60%;
 
 }
 
@@ -92,8 +93,6 @@ header h1 {
     display: flex;
     box-sizing: border-box;
     margin: 20px;
-
-
 }
 
 .work-wrapper ul {
@@ -101,7 +100,6 @@ header h1 {
     flex-wrap: wrap;
     box-sizing: border-box;
     width: 100%;
-
 }
 
 .work-wrapper ul li {
@@ -134,6 +132,7 @@ header h1 {
     background-image: url("https://placekitten.com/1000/700");
     background-size: cover;
     position: relative;
+    height: 700px;
     flex: 2 0 95%;
     
 }
@@ -190,4 +189,9 @@ header h1 {
 .contact-wrapper ul li:hover {
     font-weight: bold;
     border-bottom: gray solid 6px;
+}
+
+.contact-wrapper ul li a {
+    text-decoration: none;
+    color: black;
 }
