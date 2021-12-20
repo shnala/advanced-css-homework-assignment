@@ -1,0 +1,181 @@
+* {
+    box-sizing: border-box;
+    list-style-type: none;
+    margin: 0px;
+    font-family: sans-serif;
+
+}
+
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: gray;
+    padding: 30px;
+    font-size: 24px;
+    
+}
+
+nav ul {
+    float: right;
+    background-color: gray;
+    font-size: large;
+    margin-top: 10px;
+}
+
+nav ul li {
+    padding: 20px;
+    background-color: gray;
+    margin: 0 auto;
+    width: 25%;
+    
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white;
+}
+
+.banner {
+    position: relative;
+    background-image: url("https://placekitten.com/1700/300");
+    background-size: cover;
+    height: 300px;
+}
+
+header h1 {
+    color: white;
+    background-color: gray;
+}
+
+
+header nav ul li {
+    color: white;
+    display: inline;
+}
+
+
+.banner h2 {
+    color: white;
+    font-size: 36px;
+    position: absolute;
+    right: 70px;
+    top: 30%;
+
+}
+
+.aside-wrapper {
+    border-right: 5px solid black;
+    padding: 40px;
+    flex: 0 0 200px;
+    font-size: 24px;
+
+}
+
+
+.about-me-wrapper {
+    display: flex;
+    margin: 20px;
+
+}
+
+.about-me-wrapper p {
+    padding: 10px;
+    line-height: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+
+
+.work-wrapper {
+    display: flex;
+    box-sizing: border-box;
+    margin: 20px;
+
+
+}
+
+.work-wrapper ul {
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    width: 100%;
+
+}
+
+.work-wrapper ul li {
+    height: 300px;
+    border: gray solid 5px;
+    margin: 20px;
+    flex: 1 0 500px;
+  
+}
+
+.work-wrapper ul li h2 {
+    background-color: gray;
+    color: white;
+    position: absolute;
+    bottom: 20px;
+    padding: 10px;
+}
+
+.sub-label {
+    font-size: 15px;
+}
+
+
+#main-card {
+    background-image: url("https://placekitten.com/1000/700");
+    background-size: cover;
+    position: relative;
+    flex: 2 0 95%;
+    
+}
+
+
+#card2 {
+    background-image: url("https://placekitten.com/500/325");
+    background-size: cover;
+    position: relative;
+
+}
+
+#card3 {
+    background-image: url("https://placekitten.com/500/310");
+    background-size: cover;
+    position: relative;
+
+}
+
+#card4 {
+    background-image: url("https://placekitten.com/500/305");
+    background-size: cover;
+    position: relative;
+
+}
+
+#card5 {
+    background-image: url("https://placekitten.com/500/300");
+    background-size: cover;
+    position: relative;
+
+}
+
+
+.contact-wrapper {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.contact-wrapper ul {
+    margin-top: 50px;
+    justify-content: space-around;
+}
+
+.contact-wrapper ul li {
+    display: inline;
+    float: left;
+    padding: 20px;
+    color: black;
+}
