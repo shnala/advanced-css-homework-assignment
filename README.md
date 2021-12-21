@@ -11,9 +11,10 @@ Site is live at:
 NOTE: Placeholder images used for most sections. These will be replaced later as need be.
 
 Screenshots of live site provided:
+```md
 ![top-half](assets/screenshot1.png)
 ![bottom-half](assets/screenshot2.png)
-
+```
 
 
 ## License
