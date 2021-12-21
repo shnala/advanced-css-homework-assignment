@@ -7,13 +7,16 @@ This is a WIP home page for my online portfolio. It currently lacks functionalit
 Site is live at:
 (https://shnala.github.io/advanced-css-homework-assignment/)
 
+Site repository:
+(https://github.com/shnala/advanced-css-homework-assignment)
+
 ## Usage
 NOTE: Placeholder images used for most sections. These will be replaced later as need be.
 
 Screenshots of live site provided:
 ```md
-![top-half](assets/screenshot1.png)
-![bottom-half](assets/screenshot2.png)
+![Alt text](assets/images/screenshot1.PNG?raw=true "screenshot1")
+![bottom-half](assets/images/screenshot2.PNG)
 ```
 
 
