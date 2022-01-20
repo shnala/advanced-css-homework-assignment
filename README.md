@@ -5,20 +5,14 @@ This is a WIP home page for my online portfolio. It currently lacks functionalit
 
 ## Installation
 Site is live at:
-(https://shnala.github.io/advanced-css-homework-assignment/)
+[https://shnala.github.io/personal-portfolio/]
 
-Site repository:
-(https://github.com/shnala/advanced-css-homework-assignment)
 
 ## Usage
 NOTE: Placeholder images used for most sections. These will be replaced later as need be.
 
 Screenshots of live site provided:
-```md
-![Alt text](assets/images/screenshot1.PNG?raw=true "screenshot1")
-![bottom-half](assets/images/screenshot2.PNG)
-```
 
+![top-half](/assets/images/screenshot1.PNG)
+![bottom-half](/assets/images/screenshot2.PNG)
 
-## License
-Not sure if I need a license for a portolio page?
