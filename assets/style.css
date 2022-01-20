@@ -115,6 +115,10 @@ header h1 {
     width: 100%;
 }
 
+#projects {
+    justify-content: center;
+}
+
 .work-wrapper ul li {
     height: 300px;
     border: gray solid 5px;
