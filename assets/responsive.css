@@ -4,6 +4,12 @@
         height: 700px;
         
     }
+
+    .aside-wrapper {
+        border-right: 0px;
+        border-bottom: 5px solid black;
+    }
+
     
 }
 
@@ -19,6 +25,11 @@
 
     }
 
+    .aside-wrapper {
+        border-right: 0px;
+        border-bottom: 5px solid black;
+    }
+    
     #main-card {
         height: 700px;
         flex: 2 1 100%;
